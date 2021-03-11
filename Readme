@@ -1,12 +1,11 @@
-##cr3ator
+# cr3ator
 
-**simple python script to automate creation of folder with a virtual env 
-and git setup**
+**simple python script to automate creation of folder with a virtual env and git setup**
 
-##Usage
+# Usage
 `creator.py [OPTIONS] DIR`
 
-##OPTIONS
+# OPTIONS
 `> -h  --help  help manual`
 `> -v  --env   create a virtualenv`
 
